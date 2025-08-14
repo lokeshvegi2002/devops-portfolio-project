@@ -14,6 +14,9 @@ jobs:
   super-lint:
     name: Run Super-Linter # Display name for the job
     runs-on: ubuntu-latest # Use the latest Ubuntu virtual machine from GitHub
+    permissions:
+      contents: read
+      statuses: write
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
