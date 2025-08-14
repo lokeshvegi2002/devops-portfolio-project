@@ -28,7 +28,14 @@ To build a fully automated system that takes a simple web application, tests it,
 
 ## 📋 Current Status
 
-- [x] **Phase 1: Foundation Complete** - Project initialized in Git, code pushed to this GitHub repository, and a professional README has been created.
-- [ ] **Phase 2: CI Pipeline** - In progress.
-
----
+- I have done phase one today, where I had to push the code remote repo.
+- I have triggered the ci for that repo.
+- I have used github actions for pipeline.
+- the pipeline is triggered when used commit changes to the repo.
+- in ci I have linting the code using super-lint.
+- this super linting just checks that code have proper structure.
+- I have two issues in linting. one is regarding the formatting of Readme file.
+- other is permission from github to send the 
+report back from guthub actions machine.
+- I have cleared both the issue. now the pipeline is running successfully.
+- I have also learned about the Git pull command. what it does is it updates the local repo with remote repo.
