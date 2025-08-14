@@ -13,16 +13,16 @@ To build a fully automated system that takes a simple web application, tests it,
 ## 🛠️ Tech Stack & Tools
 *This section will be updated as each phase is completed.*
 
-  * ✅ **Phase 1: Foundation & Version Control:**
-    * `Git` | `GitHub` | `GitHub Codespaces` | `Linux CLI`
-  * ⏳ **Phase 2: Continuous Integration (CI):**
-    * `GitHub Actions`
-  * 📝 **Phase 3: Containerization (Planned):**
-    * `Docker`
-  * 📝 **Phase 4: Cloud Deployment (CD) (Planned):**
-    * `AWS EC2`
-  * 📝 **Phase 5: Monitoring (Planned):**
-    * `AWS CloudWatch`
+* ✅ **Phase 1: Foundation & Version Control:**
+  * `Git` | `GitHub` | `GitHub Codespaces` | `Linux CLI`
+* ⏳ **Phase 2: Continuous Integration (CI):**
+  * `GitHub Actions`
+* 📝 **Phase 3: Containerization (Planned):**
+  * `Docker`
+* 📝 **Phase 4: Cloud Deployment (CD) (Planned):**
+  * `AWS EC2`
+* 📝 **Phase 5: Monitoring (Planned):**
+  * `AWS CloudWatch`
 
 ---
 
